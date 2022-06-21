@@ -1,0 +1,15 @@
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\bin\Debug\net6.0\SearchingStrings.exe
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\bin\Debug\net6.0\SearchingStrings.deps.json
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\bin\Debug\net6.0\SearchingStrings.runtimeconfig.json
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\bin\Debug\net6.0\SearchingStrings.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\bin\Debug\net6.0\SearchingStrings.pdb
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\SearchingStrings.csproj.AssemblyReference.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\SearchingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\SearchingStrings.AssemblyInfoInputs.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\SearchingStrings.AssemblyInfo.cs
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\SearchingStrings.csproj.CoreCompileInputs.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\SearchingStrings.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\refint\SearchingStrings.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\SearchingStrings.pdb
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\SearchingStrings.genruntimeconfig.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SearchingStrings\SearchingStrings\SearchingStrings\obj\Debug\net6.0\ref\SearchingStrings.dll
