@@ -1,0 +1,15 @@
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\bin\Debug\net6.0\StringBasics.exe
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\bin\Debug\net6.0\StringBasics.deps.json
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\bin\Debug\net6.0\StringBasics.runtimeconfig.json
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\bin\Debug\net6.0\StringBasics.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\bin\Debug\net6.0\StringBasics.pdb
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\StringBasics.csproj.AssemblyReference.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\StringBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\StringBasics.AssemblyInfoInputs.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\StringBasics.AssemblyInfo.cs
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\StringBasics.csproj.CoreCompileInputs.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\StringBasics.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\refint\StringBasics.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\StringBasics.pdb
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\StringBasics.genruntimeconfig.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\StringBasics\StringBasics\StringBasics\obj\Debug\net6.0\ref\StringBasics.dll
