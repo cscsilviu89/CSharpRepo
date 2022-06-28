@@ -1,0 +1,15 @@
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\bin\Debug\net6.0\SimpleConsoleMenu.exe
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\bin\Debug\net6.0\SimpleConsoleMenu.deps.json
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\bin\Debug\net6.0\SimpleConsoleMenu.runtimeconfig.json
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\bin\Debug\net6.0\SimpleConsoleMenu.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\bin\Debug\net6.0\SimpleConsoleMenu.pdb
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\SimpleConsoleMenu.csproj.AssemblyReference.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\SimpleConsoleMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\SimpleConsoleMenu.AssemblyInfoInputs.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\SimpleConsoleMenu.AssemblyInfo.cs
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\SimpleConsoleMenu.csproj.CoreCompileInputs.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\SimpleConsoleMenu.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\refint\SimpleConsoleMenu.dll
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\SimpleConsoleMenu.pdb
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\SimpleConsoleMenu.genruntimeconfig.cache
+C:\Users\SilviuCiprianCimpu\Documents\GitHub\CSharpRepo\SimpleConsoleMenu\SimpleConsoleMenu\SimpleConsoleMenu\obj\Debug\net6.0\ref\SimpleConsoleMenu.dll
